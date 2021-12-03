@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="CMSConnectionString-Web.config Connection String" description="CMSConnectionString Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:devsqlse.database.windows.net,1433;Initial Catalog=Dotstark_LLP_DB_27-10-2021;Persist Security Info=False;User ID=dev;Password=Abcd@1121;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\inetpub\\wwwroot\\Kentico12_1_DS\\CMS\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CMSConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

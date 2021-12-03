@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "storage1": {
+      "type": "storage",
+      "connectionId": "XRIFiW2Tw4i7RnoKtRhd0Uk5GsczKnqf0FltFsARXjfAbaJmSRbCwNVCbTpq83mAOi6U0ABunG1zAWz3Ez3s2g=="
+    }
+  }
+}
